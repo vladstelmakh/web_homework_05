@@ -1,0 +1,11 @@
+Exchange rates fetched for 2 days
+Exchange rates fetched for 10 days and currencies: EUR, USD
+Exchange rates fetched for 2 days and currencies: USD
+Exchange rates fetched for 2 days and currencies: USD
+Exchange rates fetched for 2 days and currencies: USD
+Exchange rates fetched for 2 days and currencies: USD
+Exchange rates fetched for 2 days and currencies: EUR, USD
+Exchange rates fetched for 2 days and currencies: СCAD
+Exchange rates fetched for 2 days and currencies: USD, EUR, GBP
+Exchange rates fetched for 2 days and currencies: USD, EUR, GBP
+Exchange rates fetched for 2 days and currencies: USD, GBP
